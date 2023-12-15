@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\generation\ch34\tareas_github\revision_de_codigo_4\.metadata\.plugins\org.eclipse.jdt.core
+1696264553.index
+1225702104.index
+1865797976.index
